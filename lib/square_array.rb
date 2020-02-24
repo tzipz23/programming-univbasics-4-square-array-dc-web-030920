@@ -3,5 +3,9 @@ def square_array(array)
 end
 
 def square_array(numbers)
-  while
+  counter = 0
+  
+  while numbers[counter] do
+    puts numbers[counter]
+    counter**
 end
