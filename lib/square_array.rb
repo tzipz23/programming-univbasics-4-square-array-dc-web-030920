@@ -3,6 +3,6 @@ def square_array(array)
   
   while counter < numbers.length do
     puts array[counter]
-    numbers.square
+    numbers**
   end
 end
